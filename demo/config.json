@@ -1,0 +1,7 @@
+{
+    "CODEX_MODEL":"codex-deployment",
+    "COMPLETIONS_MODEL": "text-davinci-003-deployment",
+    "EMBEDDINGS_MODEL": "text-embedding-ada-002",
+    "OPENAI_API_BASE": "https://your-resource-name.openai.azure.com/",
+    "OPENAI_API_VERSION": "2022-12-01"
+}

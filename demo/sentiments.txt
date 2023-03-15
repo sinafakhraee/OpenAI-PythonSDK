@@ -1,0 +1,29 @@
+Book 1:
+Overall sentiment score: 4.5
+Positive aspects: Great walkthroughs and explanations on coding machine learning into different environment, good starter discussion on ML techniques, intuitive mx+b example of neural networks, answered lots of questions about using models, discussion of ML model deployment was all TensorFlow.
+Negative aspects: Last chapter on ethics/federated learning felt a little short, could have more on dealing with/identifying model drift and training on new data.
+
+Book 2:
+Overall sentiment score: 4.5
+Positive aspects: Perfect balance of breadth and depth into the topics, intuitive structure that elaborates at length on core ML concepts, does not overburden with complex programming.
+Negative aspects: Figures/tables/code snippets in the book are grayscale.
+
+Book 3:
+Overall sentiment score: 4
+Positive aspects: Fun and quick way of developing introduction to pytorch, appreciated the power of it, loved the graph neural networks chapter, introduces a topic and quick math and immediate coding.
+Negative aspects: Missed GANs and timeseries applications, initial chapters were all about classical ML, the treatment of the subject is pretty similar to most books in the market.
+
+Book 4:
+Overall sentiment score: 2.5
+Positive aspects: Good intro for student of AI and machine learning, helps you get a grasp on machine learning quickly, author does not always hold you hand through the whole journey.
+Negative aspects: Sample codes in the book start to misalign with the sample codes given in the GitHub, not properly tested, some of the issues have been left unattended for months, author does not spend a whole lot of time on explaining the details of fundamental AI/ML concepts.
+
+Book 5:
+Overall sentiment score: 5
+Positive aspects: Extremely gifted teacher with an uncanny ability to make optically complex tasks seem almost trivial, leverages Keras to demonstrate how some fairly astonishing things can happen with not that much code, should be required reading for anyone concerned with AI explainability.
+Negative aspects: None.
+
+Book 6:
+Overall sentiment score: 4.5
+Positive aspects: Thorough breakdown surrounding the different data-oriented roles, clear responsibilities of each of the roles, good examples of where we can apply ML and the System Design breakdown, two end-to-end examples in the last two chapters.
+Negative aspects: Could have some Q&A for the reader to test their knowledge or understanding of the concepts and when/where to apply them, could have the author's perspective on how they think the world of ML will change.
